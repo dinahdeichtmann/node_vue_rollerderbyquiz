@@ -55,3 +55,7 @@ This quiz application is designed to **help learn the rules of roller derby**, a
 - **"comp_explications" component**: a **modal box showing the answer** to the current question as well as explanations during a quiz session
 
 ![Home Screen](./images/comp_explications.png)
+
+## Other vesion
+
+The same project was later built using different technologies (Django + React.js). Find it [here](https://github.com/dinahdeichtmann/django_react_rollerderbyquiz).
